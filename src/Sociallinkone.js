@@ -121,7 +121,7 @@ function Sociallinkone() {
               <Button color="success" size="sm">
                 Previous
               </Button>
-              <Button  color="success" size="sm">
+              <Button color="success" size="sm">
                 Submit
               </Button>
             </div>

@@ -6,13 +6,13 @@ import Home from './Home';
 import Abouts from './Abouts';
 import Information from './Information';
 import Contactus from './Contactus';
-// import Sociallinkone from './Sociallinkone';
+import Sociallinkone from './Sociallinkone';
 
 function App() {
   return (
     <div className="App">
-      {/* <Sociallinkone/> */}
-<BrowserRouter>
+      <Sociallinkone/>
+{/* <BrowserRouter>
 
 <NavLink to="/"> Home</NavLink>
 &nbsp;
@@ -31,7 +31,7 @@ function App() {
 </Routes>
 
 
-</BrowserRouter>
+</BrowserRouter> */}
 
 
 
